@@ -1,2 +1,2 @@
 # columbus-go-club
-A home page for the Columbus Go Club
+Permanently moved to https://github.com/ColumbusGoClub/ColumbusGoClub.github.io
